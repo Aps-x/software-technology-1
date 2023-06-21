@@ -1,1 +1,4 @@
-# software-technology-1
+# Software Technology 1
+"This unit has an emphasis on object-oriented programming, and focusses on solving real world problems by learning to code using object oriented paradigm, and involves creation of reusable software using objects and classes along with procedural programming constructs such as assignment and arithmetic statements, conditional and repetition statements, and arrays and generic collections, as well as conformance to sound object oriented programming principles for creating software components, with inheritance, polymorphism and encapsulation constructs, with handling of events and exceptions, creation of component libraries, building user interaction with file i/o, database, console and graphical user interfaces, and perform basic testing and validation for robust and reliable software creation."
+
+Assessment from my Software Technology 1 unit. The two last assessment items of the unit were the house price predictor and IIT assignment 2. These two are the highest quality.
